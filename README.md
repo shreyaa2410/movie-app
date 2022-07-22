@@ -1,7 +1,15 @@
 # movie-app!
-![WhatsApp Image 2022-07-17 at 1 35 47 PM](https://user-images.githubusercontent.com/65820533/180368887-c963e06b-04e0-444c-946e-05bacfe6fabc.jpeg)
+
+#Light Mode
+
+![WhatsApp Image 2022-07-22 at 12 18 36 PM](https://user-images.githubusercontent.com/65820533/180380531-fa71d41d-dc9d-41d6-a69c-9c166d906ac8.jpeg)
 
 
-![WhatsApp Image 2022-07-17 at 1 35 48 PM](https://user-images.githubusercontent.com/65820533/180368932-3b234749-3b74-463f-b77a-79549b97539f.jpeg)
+#Dark Mode
+
+![WhatsApp Image 2022-07-22 at 12 18 36 PM (1)](https://user-images.githubusercontent.com/65820533/180380667-4f03e428-4b3b-432d-8dec-7ca5912636ff.jpeg)
+
+
+
 
 
