@@ -31,7 +31,7 @@ class MoviesProvider {
   static const String imagePathPrefix = 'https://image.tmdb.org/t/p/w500/';
 
   //REPLACE: Replace YOUR_API_KEY with your API key
-  static const apiKey = "613a8abfb61a4ff3e490a7a327a0b9d4";
+  static const apiKey = "YOUR_API_KEY";
 
   static Future<Map> getJson() async {
     final apiEndPoint =
