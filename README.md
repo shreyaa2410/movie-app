@@ -1,15 +1,16 @@
-# movie-app!
+# movie_app
 
-#Light Mode
+A new Flutter project.
 
-![WhatsApp Image 2022-07-22 at 12 18 36 PM](https://user-images.githubusercontent.com/65820533/180380531-fa71d41d-dc9d-41d6-a69c-9c166d906ac8.jpeg)
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-#Dark Mode
+A few resources to get you started if this is your first Flutter project:
 
-![WhatsApp Image 2022-07-22 at 12 18 36 PM (1)](https://user-images.githubusercontent.com/65820533/180380667-4f03e428-4b3b-432d-8dec-7ca5912636ff.jpeg)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
